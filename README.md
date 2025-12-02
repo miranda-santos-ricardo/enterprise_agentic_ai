@@ -13,6 +13,7 @@ Explain why each sucks for banks / regulated envs.
 
 ## System Overview
 1 short paragraph describing the orchestrator + 3 agents + governance.
+Orchestrator agent
 
 ## Architecture
 Link to `architecture.md` and add a very rough bullet list of components.
