@@ -1,6 +1,6 @@
 
 ```mermaid
-Document -> Orchestrator
+-> Document -> Orchestrator
   -> Extractor Agent (structured schema)
   -> Analyst Agent (reasoning over schema)
   -> Verifier Agent (validate + score)
