@@ -1,4 +1,4 @@
-# enterprise_agentic_ai
+# Enterprise Agentic AI
 An agent-based AI system for processing sensitive enterprise documents in regulated environments with orchestration, verification, and full auditability.
 
 ## Problem
