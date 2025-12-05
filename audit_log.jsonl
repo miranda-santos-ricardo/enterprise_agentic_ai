@@ -1,0 +1,5 @@
+{'request_id': '0d288b4c-afde-4e2e-8cc2-b850c111cf44', 'document_id': 'doc-001', 'has_extraction': True, 'has_analysis': False, 'has_verification': False, 'context': {}}
+{'request_id': '641d692a-6db8-4edb-8f15-17a8cd3842d4', 'document_id': 'doc-001', 'has_extraction': True, 'has_analysis': False, 'has_verification': False, 'context': {}}
+{'request_id': '641d692a-6db8-4edb-8f15-17a8cd3842d4', 'document_id': 'doc-001', 'has_extraction': True, 'has_analysis': True, 'has_verification': False, 'context': {}}
+{'request_id': '641d692a-6db8-4edb-8f15-17a8cd3842d4', 'document_id': 'doc-001', 'has_extraction': True, 'has_analysis': True, 'has_verification': True, 'context': {}}
+{'document_id': 'doc-001', 'policy_id': 'policy-default', 'status': 'approved', 'reasons': ['All policy checks passed.'], 'verification_confidence': 0.8}
