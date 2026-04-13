@@ -91,7 +91,7 @@ The system consists of:
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/enterprise_agentic_ai.git
+git clone https://github.com/miranda-santos-ricardo/enterprise_agentic_ai.git
 cd enterprise_agentic_ai
 ```
 
